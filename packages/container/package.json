@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "author": "Raymond Johannessen",
-    "description": "MicroFrontend test app",
+    "description": "MicroFrontend simple test app",
     "scripts": {
         "start": "webpack serve --config ./config/webpack.dev.js",
         "build": "webpack --config ./config/webpack.prod.js"
