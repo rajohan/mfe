@@ -16,7 +16,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Prepare and build for deployment
       - uses: actions/checkout@v2
       - run: npm install
       - run: npm run build
